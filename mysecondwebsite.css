@@ -11,3 +11,9 @@ button{
     color: darkgreen; 
     border-radius: 10px;
 }
+h1{
+    text-align: center;
+    text-shadow: 10px 15px 15px black;
+    font-size: 35px;
+    color:blueviolet;
+}
