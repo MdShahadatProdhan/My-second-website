@@ -1,0 +1,13 @@
+h3{
+    color: blue;
+    font-size: 30px ;
+    text-shadow: 12px 12px 12px black;
+}
+div{
+    background-color: aqua;
+    border-radius: 10px;
+}
+button{
+    color: darkgreen; 
+    border-radius: 10px;
+}
